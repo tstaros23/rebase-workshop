@@ -28,7 +28,6 @@ RECOMMENDED MODULES
 
 INSTALLATION
 ------------
-2. Ultricies mi quis hendrerit dolor magna.
 3. Montes nascetur ridiculus mus mauris.
 4. Accumsan tortor posuere ac ut consequat semper.
 5. Id semper risus in hendrerit gravida rutrum.
